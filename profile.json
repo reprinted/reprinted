@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "login": "reprinted",
+  "seed": "#75608F",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": false,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "buttons",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I’m",
+    "name": "reprinted",
+    "subtitle": "I built NOXEL and work on Windows desktop tools.",
+    "typing": false,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "FL"
+      },
+      {
+        "icon": "person",
+        "label": "1;1"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "I go by reprinted/injuries."
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "I built NOXEL, an open source Windows display utility."
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "NOXEL",
+        "items": [
+          {
+            "icon": "code",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": ".NET"
+          },
+          {
+            "icon": "desktop_windows",
+            "label": "WinUI 3"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "NOXEL",
+      "NOXEL-Releases"
+    ],
+    "overrides": {
+      "NOXEL-Releases": {
+        "text": "Official Windows downloads and release notes."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/hj5UexbVys"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/noxelhome"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "download",
+        "label": "Download NOXEL",
+        "url": "https://github.com/reprinted/NOXEL-Releases/releases/latest",
+        "style": "tonal"
+      },
+      {
+        "icon": "code",
+        "label": "GitHub repos",
+        "url": "https://github.com/reprinted?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
