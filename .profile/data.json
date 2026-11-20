@@ -1,5 +1,5 @@
 {
- "key": "c987976e",
+ "key": "cfcbd304",
  "stars": 1,
  "contributions": 67,
  "repos": 3,
@@ -113,9 +113,13 @@
    {
     "c": 1,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
