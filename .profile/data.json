@@ -1,6 +1,6 @@
 {
- "key": "82cf9780",
- "stars": 4,
+ "key": "36156a84",
+ "stars": 6,
  "contributions": 68,
  "repos": 3,
  "followers": 0,
@@ -138,7 +138,7 @@
    "url": "https://github.com/reprinted/NOXEL",
    "text": "Windows display utility: resolution, refresh rate, color and presets.",
    "fork": false,
-   "stars": 3,
+   "stars": 5,
    "language": "C#",
    "topics": []
   },
